@@ -172,21 +172,4 @@ body {
     }
   }
 
-  /* ✅ Evita el espacio en blanco lateral cuando hay scroll horizontal */
-html, body {
-    overflow-x: hidden;
-  }
-  
-  /* ✅ Solo la tabla puede desplazarse horizontalmente */
-  .table-container {
-    overflow-x: auto;
-    width: 100%;
-    display: block;
-  }
-  
-  /* ✅ Asegura que el nav siempre ocupe el ancho completo */
-  nav {
-    
-    overflow: hidden;
-  }
   
