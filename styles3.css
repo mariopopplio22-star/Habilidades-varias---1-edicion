@@ -63,7 +63,7 @@ body {
   }
 
   .table-container {
-    overflow-x: auto;
+    
     width: 100%;
   }
 
@@ -170,6 +170,16 @@ body {
     th, td {
       padding: 5px;
     }
+  }
+
+  #body1{
+    width: 100%;
+    overflow-x: auto;
+
+  }
+
+  #tvbody{
+    width: 100%;
   }
 
   
