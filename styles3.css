@@ -186,7 +186,7 @@ html, body {
   
   /* ✅ Asegura que el nav siempre ocupe el ancho completo */
   nav {
-    width: 100%;
+    
     overflow: hidden;
   }
   
